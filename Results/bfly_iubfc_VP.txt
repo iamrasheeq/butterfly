@@ -1,0 +1,25 @@
+IMDB Dataset:
+
+Total Nodes: 1199919
+dges: 3782463
+The number of edgeList satisfying the threshold: 3497950
+Threshold t: 0.2||Uncertain Butterflies: 831655||Runtime: 11036 miliseconds
+Edges: 3782463
+The number of edgeList satisfying the threshold: 3209475
+Threshold t: 0.3||Uncertain Butterflies: 215315||Runtime: 11851 miliseconds
+Edges: 3782463
+The number of edgeList satisfying the threshold: 2808827
+Threshold t: 0.4||Uncertain Butterflies: 59888||Runtime: 7185 miliseconds
+Edges: 3782463
+The number of edgeList satisfying the threshold: 2308787
+Threshold t: 0.5||Uncertain Butterflies: 17175||Runtime: 5627 miliseconds
+Edges: 3782463
+The number of edgeList satisfying the threshold: 1752095
+Threshold t: 0.6||Uncertain Butterflies: 4928||Runtime: 4247 miliseconds
+Edges: 3782463
+The number of edgeList satisfying the threshold: 1193441
+Threshold t: 0.7||Uncertain Butterflies: 1205||Runtime: 3079 miliseconds
+Edges: 3782463
+The number of edgeList satisfying the threshold: 692348
+Threshold t: 0.8||Uncertain Butterflies: 235||Runtime: 2150 miliseconds
+

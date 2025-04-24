@@ -1,0 +1,10 @@
+YOUTUBE:
+While al1=.001
+Threshold t: 0.2||Uncertain Butterflies: 7051.829539999997||Runtime: 357 miliseconds
+Threshold t: 0.3||Uncertain Butterflies: 41044.41852000001||Runtime: 231 miliseconds
+Threshold t: 0.4||Uncertain Butterflies: 8266.792954999999||Runtime: 206 miliseconds
+Threshold t: 0.5||Uncertain Butterflies: 4841.948439999998||Runtime: 162 miliseconds
+Threshold t: 0.6||Uncertain Butterflies: 4277.934009999999||Runtime: 162 miliseconds
+Threshold t: 0.7||Uncertain Butterflies: 9205.167839999998||Runtime: 276 miliseconds
+Threshold t: 0.8||Uncertain Butterflies: 7577.206389999999||Runtime: 222 miliseconds
+

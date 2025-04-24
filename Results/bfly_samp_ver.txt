@@ -1,0 +1,8 @@
+IMDB Dataset:
+Threshold t: 0.2, Uncertain Butterflies: 318293, Runtime: 5508 milisecons
+Threshold t: 0.3, Uncertain Butterflies: 57029, Runtime: 4230 milisecons
+Threshold t: 0.4, Uncertain Butterflies: 11095, Runtime: 3700 milisecons
+Threshold t: 0.5, Uncertain Butterflies: 2321, Runtime: 3418 milisecons
+Threshold t: 0.6, Uncertain Butterflies: 397, Runtime: 3410 milisecons
+Threshold t: 0.7, Uncertain Butterflies: 65, Runtime: 3350 milisecons
+Threshold t: 0.8, Uncertain Butterflies: 8, Runtime: 3690 milisecons

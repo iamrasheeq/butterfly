@@ -1,0 +1,10 @@
+IMDB Dataset:
+
+Total Nodes: 1199919
+Edges: 3782463
+
+Threshold t: 0.4||Uncertain Butterflies: 348028||Runtime: 1816567 miliseconds
+Threshold t: 0.6||Uncertain Butterflies: 20051||Runtime: 309554 miliseconds
+Threshold t: 0.7||Uncertain Butterflies: 5295||Runtime: 311195 miliseconds
+Threshold t: 0.7||Uncertain Butterflies: 5295||Runtime: 311195 miliseconds
+

@@ -1,0 +1,67 @@
+Youtube Dataset:
+
+
+Total Nodes: 94238
+Edges: 293360
+
+Threshold t: 0.2||Uncertain Butterflies: 413314||Runtime: 752 miliseconds
+The number of edgeList satisfying the threshold: 236215
+
+The number of edgeList satisfying the threshold: 206800
+Threshold t: 0.3||Uncertain Butterflies: 193763||Runtime: 666 miliseconds
+
+The number of edgeList satisfying the threshold: 147954
+Threshold t: 0.5||Uncertain Butterflies: 39154||Runtime: 513 miliseconds
+
+
+The number of edgeList satisfying the threshold: 118814
+Threshold t: 0.6||Uncertain Butterflies: 14868||Runtime: 315 miliseconds
+
+
+The number of edgeList satisfying the threshold: 89549
+Threshold t: 0.7||Uncertain Butterflies: 4506||Runtime: 259 miliseconds
+Total Nodes: 94238
+Edges: 293360
+The number of edgeList satisfying the threshold: 60249
+Threshold t: 0.8||Uncertain Butterflies: 869||Runtime: 206 miliseconds
+
+
+
+IMDB dataset:
+
+Total Nodes: 1199919
+Edges: 3782463
+
+Threshold t: 0.2||Uncertain Butterflies: 1106829||Runtime: 10637 miliseconds
+The number of edgeList satisfying the threshold: 3497950
+Uncertain Butterflies: 1106829
+
+Threshold t: 0.3||Uncertain Butterflies: 450663||Runtime: 9618 miliseconds
+The number of edgeList satisfying the threshold: 3209475
+Uncertain Butterflies: 450663
+
+
+Threshold t: 0.4||Uncertain Butterflies: 170120||Runtime: 8181 miliseconds
+The number of edgeList satisfying the threshold: 2808827
+Uncertain Butterflies: 170120
+
+
+Threshold t: 0.5||Uncertain Butterflies: 57397||Runtime: 6573 miliseconds
+The number of edgeList satisfying the threshold: 2308787
+Uncertain Butterflies: 57397
+
+Threshold t: 0.6||Uncertain Butterflies: 16396||Runtime: 5123 miliseconds
+The number of edgeList satisfying the threshold: 1752095
+Uncertain Butterflies: 16396
+
+Threshold t: 0.7||Uncertain Butterflies: 3599||Runtime: 3834 miliseconds
+The number of edgeList satisfying the threshold: 1193441
+Uncertain Butterflies: 3599
+
+
+Threshold t: 0.8||Uncertain Butterflies: 522||Runtime: 2966 miliseconds
+The number of edgeList satisfying the threshold: 692348
+Uncertain Butterflies: 522
+
+
+
